@@ -1,0 +1,2 @@
+# MicrosoftTerminalConfig
+My config file. 📑
